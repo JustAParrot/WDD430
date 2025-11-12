@@ -12,3 +12,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+// OE zi
